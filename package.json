@@ -1,0 +1,33 @@
+{
+  "name": "expectations-spy",
+  "version": "0.0.1",
+  "description": "A spy helper for the expectations (jasmine-style) test framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "spy",
+    "expectations",
+    "jasmine",
+    "mocha"
+  ],
+  "homepage": "https://github.com/mjwwit/expectations-spy",
+  "author": {
+    "name": "Michael de Wit",
+    "email": "mjwwit@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "expectations": "^0.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjwwit/expectations-spy.git"
+  }
+}
