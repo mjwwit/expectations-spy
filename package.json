@@ -1,6 +1,6 @@
 {
   "name": "expectations-spy",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A spy helper for the expectations (jasmine-style) test framework.",
   "main": "index.js",
   "scripts": {
